@@ -82,3 +82,5 @@ Temporary Items
 \.idea/inspectionProfiles/profiles_settings\.xml
 
 \.idea/
+
+*.xml
