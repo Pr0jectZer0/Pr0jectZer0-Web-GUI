@@ -80,3 +80,10 @@ Temporary Items
 /.idea/vcs.xml
 /.idea/projectzero-gui.iml
 /.idea/modules.xml
+
+\.idea/inspectionProfiles/profiles_settings\.xml
+
+\.idea/
+
+*.xml
+*.iml
