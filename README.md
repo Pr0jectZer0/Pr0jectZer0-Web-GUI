@@ -1,4 +1,6 @@
 # Webanwendung GUI
+Grobe Darstellung der Webanwendung vom Projekt Zero.
+
 
 Autoren:
 * ![Patrick Reinke](https://github.com/reinkepatrick)
