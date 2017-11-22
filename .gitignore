@@ -78,3 +78,7 @@ Temporary Items
 .apdisk
 
 /.idea/vcs.xml
+
+\.idea/inspectionProfiles/profiles_settings\.xml
+
+\.idea/
